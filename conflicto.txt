@@ -1,1 +1,1 @@
-Version modificada desde main
+Version final: conflicto resuelto correctamente
